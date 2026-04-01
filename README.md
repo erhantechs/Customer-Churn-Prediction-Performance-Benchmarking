@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Prediction
+# 🏦 Bank Customer Churn Prediction & Performance Benchmarking
 
 This repository contains a comprehensive end-to-end data science project focused on predicting customer churn for a banking institution. The goal is to identify high-risk customers and understand the underlying factors that lead to churn using various Machine Learning techniques.
 
